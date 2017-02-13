@@ -36,6 +36,11 @@ a {
   color: #0074d9;
 }
 
+a:hover {
+  color: #fff;
+  background-color: #0074d9;
+}
+
 .masthead {
   text-align: center;
 }
@@ -48,6 +53,7 @@ a {
 
 .nav a {
   display: block;
+  text-decoration: none;
 }
 
 .nav li {
