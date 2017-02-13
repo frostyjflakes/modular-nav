@@ -59,3 +59,9 @@ a:hover {
 .nav li {
   display: inline-block;
 }
+
+@media only screen and (min-width: 38em) {
+  .masthead {
+    text-align: left;
+  }
+}
